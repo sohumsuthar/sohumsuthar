@@ -67,10 +67,9 @@ This summer I'll be at **[Astera Labs](https://www.asteralabs.com/)** as a Syste
 [sohum ~]: $ neofetch --github
 ```
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sohumsuthar&show_icons=true&hide_border=true&bg_color=1a1b2e&title_color=22c55e&text_color=9ca3af&icon_color=22c55e&ring_color=22c55e" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohumsuthar&layout=compact&hide_border=true&bg_color=1a1b2e&title_color=22c55e&text_color=9ca3af" alt="Top Languages" height="165" />
-</p>
+<a href="https://github.com/sohumsuthar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohumsuthar&theme=dark&hide_border=true&background=1a1b2e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=9ca3af&dates=9ca3af&currStreakNum=9ca3af&sideNums=9ca3af" alt="GitHub Streak" height="165" />
+</a>
 
 ---
 
