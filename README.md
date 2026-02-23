@@ -1,9 +1,6 @@
 ```
 [sohum ~]: $ cat /valorant/peak-rank
 Immortal 2
-```
-
-```
 [sohum ~]: $ cat /etc/tech-stack
 ```
 
