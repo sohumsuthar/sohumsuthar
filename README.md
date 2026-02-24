@@ -27,7 +27,3 @@
 ![AWS](https://img.shields.io/badge/AWS-1a1b2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b2e?style=flat-square&logo=vercel&logoColor=white)
 
-
-```
-
-</sub>
