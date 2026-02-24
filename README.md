@@ -2,20 +2,6 @@
 [sohum ~]: $ whoami
 ```
 
-### Sohum Suthar
-
-Electrical Engineer and Physicist. [Lee Teng Fellow](https://www.anl.gov/education/lee-teng-internship) at Argonne National Laboratory.
-
-[![Website](https://img.shields.io/badge/sohumsuthar.com-1a1b2e?style=flat-square&logo=safari&logoColor=white)](https://www.sohumsuthar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sohumsuthar/)
-[![Resume](https://img.shields.io/badge/Resume-1a1b2e?style=flat-square&logo=readdotcv&logoColor=22c55e)](https://www.sohumsuthar.com/resume)
-
----
-
-```
-[sohum ~]: $ cat /etc/tech-stack
-```
-
 ![Python](https://img.shields.io/badge/Python-1a1b2e?style=flat-square&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-1a1b2e?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-1a1b2e?style=flat-square&logo=cplusplus&logoColor=00599C)
@@ -41,27 +27,7 @@ Electrical Engineer and Physicist. [Lee Teng Fellow](https://www.anl.gov/educati
 ![AWS](https://img.shields.io/badge/AWS-1a1b2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b2e?style=flat-square&logo=vercel&logoColor=white)
 
----
 
-```
-[sohum ~]: $ ls projects/
-```
-
-| Project | Description |
-|---------|-------------|
-| [AI Robot for Particle Accelerators](https://accelconf.web.cern.ch/medsi2020/papers/TUPC08.pdf) | AI-augmented robot for surveying high-radiation facilities -- MEDSI 2020 |
-| [Portfolio MCP Server](https://github.com/sohumsuthar/portfolio-mcp) | MCP server for managing blog posts and projects via Claude |
-| [Canvas MCP Server](https://github.com/sohumsuthar/canvas-mcp) | Canvas LMS MCP server for Claude Desktop |
-| [Autonomous Robomower](https://github.com/sohumsuthar/EDD-ai-robomower) | Autonomous lawnmower using localization and computer vision |
-| [VEX AI Robotics](https://github.com/sohumsuthar/91008A-VEX-AI) | Jetson Nano + depth perception for autonomous VEX gameplay |
-| [SCPI VNA Control](https://github.com/sohumsuthar/scpi-rohde-schwarz-vna) | Python scripts for collecting trace data from R&S VNAs |
-
----
-
-<sub>
-
-```
-[sohum ~]: $ exit
 ```
 
 </sub>
