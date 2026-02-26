@@ -1,5 +1,5 @@
 ```
-[sohum ~]: $ whoami
+[sohum ~]: $
 ```
 
 ![Python](https://img.shields.io/badge/Python-1a1b2e?style=flat-square&logo=python&logoColor=3776AB)
